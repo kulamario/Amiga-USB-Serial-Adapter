@@ -5,3 +5,5 @@ A simple interface that allows you to connect your Amiga to any PC via a termina
 RS232 and TTL operation possible
 
 Switched with jumpers
+
+No need drivers just connect via USB to PC
